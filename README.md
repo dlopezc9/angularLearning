@@ -6,3 +6,4 @@ Next is listed the order of the projects, so must likely they get better as you 
 
 1. BookApi: can also be taken as a hello world.
 2. EmployeeManagement: first approach to good practices, and simple solution to multiple components.
+3. StampCollection: first approach without any tutorial! (In progress).
